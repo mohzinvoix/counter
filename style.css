@@ -120,3 +120,7 @@ textarea:focus {
     flex-direction: column;
         font-weight: 400;
 }
+
+.container.details {
+    width: calc(100% /2);
+}
