@@ -15,7 +15,7 @@ padding:40px 20px;
     box-sizing: border-box;  
     
 }
-ul {
+nav {
   list-style-type: none;
   margin: 0;
   padding: 0;
@@ -25,12 +25,11 @@ ul {
   height: 64px;
   align-items: center;
 }
-li{
- padding:10px 20px;
- }
- li a{
+
+ nav a{
  text-decoration:none;
  color:black;
+ padding:10px 20px;
  }
 .container {
     width:100%;
