@@ -11,6 +11,20 @@ body{
     height: 100vh;
     font-family: 'PT Sans', sans-serif;
 }
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display:flex;
+ 
+}
+li{
+ padding:10px 20px;
+ }
+ li a{
+ text-decoration:none;
+ color:black;
+ }
 .container {
     display: flex;
     flex-direction: column;
