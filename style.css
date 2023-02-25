@@ -21,6 +21,7 @@ ul {
   background-color: #fff;
   border-bottom: 1px solid #dadce0;
   height: 64px;
+  align-items: center;
 }
 li{
  padding:10px 20px;
