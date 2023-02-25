@@ -114,4 +114,5 @@ textarea:focus {
 .result div {
     display: flex;
     flex-direction: column;
+        font-weight: 400;
 }
