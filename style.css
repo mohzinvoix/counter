@@ -11,7 +11,7 @@ body{
     width: 100%;
 padding:60px 20px;
      justify-content: space-between;
-    align-items: center;
+   align-items: self-start;
     box-sizing: border-box;  
     
 }
